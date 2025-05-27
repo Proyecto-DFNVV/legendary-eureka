@@ -1,4 +1,4 @@
-GRUPO 40
+# GRUPO 40
 
 # Proyecto Biblioteca Cultural Compartida 📚✨
 
