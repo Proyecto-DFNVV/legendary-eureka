@@ -2,7 +2,7 @@ GRUPO 40
 
 # Proyecto Biblioteca Cultural Compartida 📚✨
 
-Este es un proyecto en desarrollo que busca crear una **plataforma colaborativa centrada en la cultura**. La idea inicial es funcionar como una especie de **biblioteca compartida**, donde se puedan registrar, intercambiar o recomendar libros, películas, música, artículos, y más.
+Este es un proyecto en desarrollo que busca crear una **plataforma colaborativa centrada en la cultura literaria cordobesa**. Esto implica compartir y acceder a obras literarias de autores de la provincia de Córdoba 
 
 ## 🎯 Objetivo
 
@@ -26,6 +26,7 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 
 ## 🔜 Próximos pasos
 
+- Definir 
 - Definir funcionalidades principales.
 - Asignar tareas y roles.
 
