@@ -16,11 +16,7 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 
 ## 🧠 Ideas iniciales
 
-- Registro de libros, películas, música, etc.
-- Sistema de recomendaciones por parte de los usuarios.
-- Etiquetado temático (géneros, idiomas, regiones, etc.)
-- Intercambio o préstamo de materiales (físicos o digitales).
-- Espacios para reseñas o comentarios culturales.
+- Libros literarios de Córdoba
 
 ## 👥 Equipo
 
