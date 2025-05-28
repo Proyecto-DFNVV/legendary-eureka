@@ -23,7 +23,8 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 ## 👥 Equipo
 
 - Abarzúa / Longo / Moya / Ruzzi / 
-👩🏻 *Dani Salvo:* Trabajo en un call center y hace un tiempo me interesé por el amplio mundo IT. Empecé a hacer cursos, ver videos y ahora soy estudiante de la Tecnicatura en Desarrollo Web. Me encanta leer, especialmente durante las vacaciones, y disfruto mucho el género de novelas y policiales.
+
+- 👩🏻 *Dani Salvo:* Trabajo en un call center y hace un tiempo me interesé por el amplio mundo IT. Empecé a hacer cursos, ver videos y ahora soy estudiante de la Tecnicatura en Desarrollo Web. Me encanta leer, especialmente durante las vacaciones, y disfruto mucho el género de novelas y policiales.
 
 ## 🔜 Próximos pasos
 
