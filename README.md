@@ -1,34 +1,42 @@
 GRUPO 40
 
-# Proyecto Biblioteca Cultural Compartida 📚✨
+# Proyecto LITERATURA CON TONADA: Biblioteca Cultural Compartida 📚✨
 
-Este es un proyecto en desarrollo que busca crear una **plataforma colaborativa centrada en la cultura literaria cordobesa**. Esto implica compartir y acceder a obras literarias de autores de la provincia de Córdoba 
+Este es un proyecto en desarrollo que busca crear una **plataforma colaborativa centrada en la cultura literaria cordobesa**. Se trata de un repositorio digital colaborativo dedicado a la difusión y preservación de obras literarias de autores de Córdoba Capital. 
 
 ## 🎯 Objetivo
 
-Promover el acceso abierto y colaborativo al conocimiento y la cultura, fomentando una comunidad donde los usuarios puedan compartir recursos culturales y recomendaciones.
+Promover el acceso abierto y colaborativo al conocimiento y la cultura de autores cordobeses, fomentando una comunidad donde los usuarios puedan compartir recursos y recomendaciones.
 
-## 🚧 Estado del proyecto
+## 💡 Posibles Funcionalidades
 
-Este proyecto está en etapa de ideas y planificación. Estamos definiendo funcionalidades, tecnologías a utilizar y el alcance final de la plataforma.
-
-## 🧠 Ideas iniciales
-
-- Registro de libros, películas, música, etc.
-- Sistema de recomendaciones por parte de los usuarios.
-- Etiquetado temático (géneros, idiomas, regiones, etc.)
-- Intercambio o préstamo de materiales (físicos o digitales).
-- Espacios para reseñas o comentarios culturales.
+- Carga y descarga de obras literarias (PDF, EPUB, texto).
+- Búsqueda por autor, género, o palabras clave.
+- Perfiles de autores con biografía y publicaciones.
+- Sección de comentarios y valoraciones de obras.
+- Espacios para difusión de talleres o actividades literarias.
 
 ## 👥 Equipo
 
-- Abarzúa / Longo / Moya / Ruzzi / Salvo
+- **Abarzúa:**
+- **Longo:**
+- **Moya Verónica:** Enfermera pediátrica, apasionada por la lectura y siempre en busca de nuevas historias y conocimientos. Actualmente estudiante de Desarrollo Web, un mundo que me encanta por su creatividad y posibilidades.
+- **Ruzzi:**
+- **Salvo:**
+
+  
+## 🧠 Posibles usuarios
+
+
+
+## 🚧 Estado del proyecto
+
+- Sprint 0 finalizada: planificación y definición inicial del proyecto.
+
 
 ## 🔜 Próximos pasos
 
-- Definir 
-- Definir funcionalidades principales.
-- Asignar tareas y roles.
+........  
 
 
 
