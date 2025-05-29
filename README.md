@@ -22,7 +22,8 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 
 ## 👥 Equipo
 
-- Abarzúa / Longo / Moya / Ruzzi / Salvo
+- Abarzúa Najla: Soy docente de Educación Tecnológica en el nivel primario , donde me dedico a despertar la curiosidad de los más pequeños por el mundo digital. Me apasiona mantenerme al día con las últimas tendencias y herramientas de mi campo, por lo que estoy en constante capacitación profesional. Actualmente, estoy profundizando mis conocimientos y habilidades cursando la Tecnicatura en Desarrollo de Software y Aplicaciones Digitales , lo cual me permite enriquecer aún más mi práctica docente.
+-  Longo / Moya / Ruzzi / Salvo
 
 ## 🔜 Próximos pasos
 
