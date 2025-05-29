@@ -25,7 +25,7 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 - Moya, Verónica
   
 - Ruzzi, Valeria Anahi.
-♥¡Hola! Soy Valeria Ruzzi, profesora de Educación Tecnológica en la escuela primaria Dr. Donato Latella Frías, y desde mi rol docente trabajo cada día para que la tecnología sea una puerta abierta al aprendizaje, la creatividad y la inclusión.
+♥¡Hola! Soy Vale, profesora de Educación Tecnológica en la escuela primaria Dr. Donato Latella Frías, y desde mi rol docente trabajo cada día para que la tecnología sea una puerta abierta al aprendizaje, la creatividad y la inclusión.
 Tengo una profunda vocación por enseñar y una sólida formación en tecnologías aplicadas a la educación, lo que me ha permitido transformar mi aula en un espacio dinámico, estimulante y participativo. Mi objetivo es que cada estudiante no solo conozca la tecnología, sino que aprenda a utilizarla como una herramienta para pensar, crear, resolver problemas y trabajar en equipo.
 Me mantengo en constante formación, incorporando nuevas metodologías como el pensamiento computacional, la robótica educativa y el diseño 3D, porque estoy convencida de que la educación debe evolucionar junto con los tiempos. Por este motivo me inscribí en la Tecnicatura de Desarrollo Web y Aplicaciones Digitales, para ampliar mis conocimientos y mi campo laboral.
 
