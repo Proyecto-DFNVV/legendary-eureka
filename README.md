@@ -23,13 +23,24 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 - Abarzúa Saime, Najla Andrea
 - Longo, María Florencia
 - Moya, Verónica
-- Ruzzi, Valeria Anahi
+  
+- Ruzzi, Valeria Anahi.
+♥¡Hola! Soy Valeria Ruzzi, profesora de Educación Tecnológica en la escuela primaria Dr. Donato Latella Frías, y desde mi rol docente trabajo cada día para que la tecnología sea una puerta abierta al aprendizaje, la creatividad y la inclusión.
+Tengo una profunda vocación por enseñar y una sólida formación en tecnologías aplicadas a la educación, lo que me ha permitido transformar mi aula en un espacio dinámico, estimulante y participativo. Mi objetivo es que cada estudiante no solo conozca la tecnología, sino que aprenda a utilizarla como una herramienta para pensar, crear, resolver problemas y trabajar en equipo.
+Me mantengo en constante formación, incorporando nuevas metodologías como el pensamiento computacional, la robótica educativa y el diseño 3D, porque estoy convencida de que la educación debe evolucionar junto con los tiempos. Por este motivo me inscribí en la Tecnicatura de Desarrollo Web y Aplicaciones Digitales, para ampliar mis conocimientos y mi campo laboral.
+
 - Salvo, Daniela
 
 ## 🔜 Próximos pasos
 
-- Definir funcionalidades principales.
-- Asignar tareas y roles.
+>> Definir funcionalidades principales.
+>> Asignar tareas y roles.
 
+Pensando en el desarrollo de la aplicación, posibles ítems que se puedan agregar:
+>> Búsqueda y filtrado: añadir una barra de búsqueda para que los usuarios encuentren ítems específicos o filtros por categoría.
+>> Imágenes: Permitir a los usuarios subir una imagen de portada para cada ítem cultural.
+>> Valoraciones y comentarios: Implementar un sistema de estrellas o comentarios para que los usuarios puedan valorar y discutir los ítems.
+>> Perfiles de Usuario: Crear perfiles de usuario donde se guarde la información de cada usuario.
+>> Mejoras de Accesibilidad: Asegurarse de que la aplicación sea accesible para todos los usuarios, incluyendo aquellos con discapacidades.
 
 
