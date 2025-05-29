@@ -20,7 +20,11 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 
 ## 👥 Equipo
 
-- Abarzúa / Longo / Moya / Ruzzi / Salvo
+- Abarzúa Saime, Najla Andrea
+- Longo, María Florencia
+- Moya, Verónica
+- Ruzzi, Valeria Anahi
+- Salvo, Daniela
 
 ## 🔜 Próximos pasos
 
