@@ -33,14 +33,14 @@ Me mantengo en constante formación, incorporando nuevas metodologías como el p
 
 ## 🔜 Próximos pasos
 
-> Definir funcionalidades principales.
-> Asignar tareas y roles.
+- Definir funcionalidades principales.
+- Asignar tareas y roles.
 
 Pensando en el desarrollo de la aplicación, posibles ítems que se puedan agregar:
-> Búsqueda y filtrado: añadir una barra de búsqueda para que los usuarios encuentren ítems específicos o filtros por categoría.
-> Imágenes: Permitir a los usuarios subir una imagen de portada para cada ítem cultural.
-> Valoraciones y comentarios: Implementar un sistema de estrellas o comentarios para que los usuarios puedan valorar y discutir los ítems.
-> Perfiles de Usuario: Crear perfiles de usuario donde se guarde la información de cada usuario.
-> Mejoras de Accesibilidad: Asegurarse de que la aplicación sea accesible para todos los usuarios, incluyendo aquellos con discapacidades.
+- Búsqueda y filtrado: añadir una barra de búsqueda para que los usuarios encuentren ítems específicos o filtros por categoría.
+- Imágenes: Permitir a los usuarios subir una imagen de portada para cada ítem cultural.
+- Valoraciones y comentarios: Implementar un sistema de estrellas o comentarios para que los usuarios puedan valorar y discutir los ítems.
+- Perfiles de Usuario: Crear perfiles de usuario donde se guarde la información de cada usuario.
+- Mejoras de Accesibilidad: Asegurarse de que la aplicación sea accesible para todos los usuarios, incluyendo aquellos con discapacidades.
 
 
