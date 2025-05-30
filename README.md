@@ -1,24 +1,31 @@
 GRUPO 40
 
-# Proyecto Biblioteca Cultural Compartida 📚✨
+# Proyecto LITERATURA CON TONADA: Biblioteca Cultural Compartida 📚✨
 
-Este es un proyecto en desarrollo que busca crear una **plataforma colaborativa centrada en la cultura**. La idea inicial es funcionar como una especie de **biblioteca compartida**, donde se puedan registrar, intercambiar o recomendar libros, películas, música, artículos, y más.
+Este es un proyecto en desarrollo que busca crear una **plataforma colaborativa centrada en la cultura literaria cordobesa**. Se trata de un repositorio digital colaborativo dedicado a la difusión y preservación de obras literarias de autores de Córdoba Capital. 
 
 ## 🎯 Objetivo
 
-Promover el acceso abierto y colaborativo al conocimiento y la cultura, fomentando una comunidad donde los usuarios puedan compartir recursos culturales y recomendaciones.
+Promover el acceso abierto y colaborativo al conocimiento y la cultura de autores cordobeses, fomentando una comunidad donde los usuarios puedan compartir recursos y recomendaciones.
 
-## 🚧 Estado del proyecto
+## 💡 Posibles Funcionalidades
 
-Este proyecto está en etapa de ideas y planificación. Estamos definiendo funcionalidades, tecnologías a utilizar y el alcance final de la plataforma.
+- Carga y descarga de obras literarias (PDF, EPUB, texto).
+- Búsqueda por autor, género, o palabras clave.
+- Perfiles de autores con biografía y publicaciones.
+- Sección de comentarios y valoraciones de obras.
+- Espacios para difusión de talleres o actividades literarias.
 
-## 🧠 Ideas iniciales
+## 👥 Equipo
 
-- Registro de libros, películas, música, etc.
-- Sistema de recomendaciones por parte de los usuarios.
-- Etiquetado temático (géneros, idiomas, regiones, etc.)
-- Intercambio o préstamo de materiales (físicos o digitales).
-- Espacios para reseñas o comentarios culturales.
+- **Abarzúa:**
+- **Longo:**
+- **Moya Verónica:** Enfermera pediátrica, apasionada por la lectura y siempre en busca de nuevas historias y conocimientos. Actualmente estudiante de Desarrollo Web, un mundo que me encanta por su creatividad y posibilidades.
+- **Ruzzi:**
+- **Salvo:**
+
+  
+## 🧠 Posibles usuarios
 
 ## Roles de usuario
 
@@ -36,10 +43,12 @@ Este proyecto está en etapa de ideas y planificación. Estamos definiendo funci
 - **Ruzzi, Valeria:**
 - 👩🏻  **Salvo, Daniela:** Trabajo en un call center y hace un tiempo me interesé por el amplio mundo IT. Empecé a hacer cursos, ver videos y ahora soy estudiante de la Tecnicatura en Desarrollo Web. Me encanta leer, especialmente durante las vacaciones, y disfruto mucho el género de novelas y policiales. 
 
-## 🔜 Próximos pasos
 
-- Definir funcionalidades principales.
-- Asignar tareas y roles.
+## 🚧 Estado del proyecto
+
+- Sprint 0 finalizada: planificación y definición inicial del proyecto.
+
+
 
 
 
